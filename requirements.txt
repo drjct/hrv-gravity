@@ -1,0 +1,4 @@
+pathlib
+wfdb
+pandas
+numpy
