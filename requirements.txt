@@ -1,4 +1,11 @@
-pathlib
-wfdb
 pandas
 numpy
+seaborn
+matplotlib
+peakutils
+scipy
+pyhrv
+spectrum
+pyEntrp
+hrv-analysis
+pathlib
